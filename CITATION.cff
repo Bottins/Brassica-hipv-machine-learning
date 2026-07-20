@@ -1,11 +1,10 @@
 cff-version: 1.2.0
-message: "If you use these data or this software,
-please cite the archived repository and the associated
-article."
+message: "Please cite this repository and the
+associated article."
 title: "Data and code for machine-learning analysis of
 volatile-mediated responses in Brassica rapa"
 type: software
-version: 1.0.0
+version: 1.0.2
 authors:
   - family-names: "Cangemi"
     given-names: "Mariachiara"
@@ -20,12 +19,3 @@ authors:
 repository-code:
 "https://github.com/Bottins/Brassica-hipv-machine-learning"
 license: MIT
-keywords:
-  - Brassica rapa
-  - herbivore-induced plant volatiles
-  - plant-plant communication
-  - machine learning
-  - gradient boosting
-  - GC-MS
-  - gas exchange
-  - chlorophyll fluorescence
