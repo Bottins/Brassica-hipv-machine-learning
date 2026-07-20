@@ -1,8 +1,7 @@
 cff-version: 1.2.0
 message: "Please cite this repository and the
 associated article."
-title: "Data and code for machine-learning analysis of
-volatile-mediated responses in Brassica rapa"
+title: "Data and code for machine-learning analysis of volatile-mediated responses in Brassica rapa"
 type: software
 version: 1.0.2
 authors:
