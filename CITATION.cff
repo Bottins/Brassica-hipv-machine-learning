@@ -15,6 +15,5 @@ authors:
     given-names: "Maurilia Maria"
   - family-names: "Cuomo"
     given-names: "Salvatore"
-repository-code:
-"https://github.com/Bottins/Brassica-hipv-machine-learning"
+repository-code: "https://github.com/Bottins/Brassica-hipv-machine-learning"
 license: MIT
