@@ -120,3 +120,15 @@ If you use these data or scripts, please cite the associated article. Full citat
 ## Contact
 
 Code-related enquiries: [Alessandro Bottino](https://github.com/Bottins).
+
+## License
+
+  The source code in this repository is licensed under
+  the MIT License.
+  See [`LICENSE`](LICENSE).
+
+  The datasets in `data/raw` and `data/processed` are
+  licensed under the
+  Creative Commons Attribution 4.0 International License
+  (CC BY 4.0).
+  See [`DATA_LICENSE.md`](DATA_LICENSE.md).
