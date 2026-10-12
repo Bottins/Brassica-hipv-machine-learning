@@ -7,9 +7,15 @@ venv/
 .DS_Store
 Thumbs.db
 
-# Generated analysis outputs
-results/figures/*.png
-results/tables/*.csv
-results_v2/figures_v2/*.png
-results_v2/tables/*.csv
-
+# ---------------------------------------------------------------
+# Data and generated outputs: contents ignored,
+# empty folders kept via .gitkeep
+# ---------------------------------------------------------------
+data/**
+!data/**/
+!data/README.md
+results/**
+!results/**/
+results_v2/**
+!results_v2/**/
+!**/.gitkeep
